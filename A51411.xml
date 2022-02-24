@@ -1,0 +1,1103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some meditations on the history recorded in the first fourteen chapters of Exodus, in meeter</title>
+            <author>Morton, Charles, 1627-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51411</idno>
+            <idno type="STC">Wing M2824A</idno>
+            <idno type="STC">ESTC R38056</idno>
+            <idno type="EEBO-CITATION">17163890</idno>
+            <idno type="OCLC">ocm 17163890</idno>
+            <idno type="VID">106084</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51411)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106084)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1620:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some meditations on the history recorded in the first fourteen chapters of Exodus, in meeter</title>
+                  <author>Morton, Charles, 1627-1698.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>168-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Morton by Wing and NUC pre-1956 imprints.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>"An account, under the guise of the Exodus from Egypt, of the migration of the Puritans to New England"--NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Exodus, The --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="meditations">
+            <pb facs="tcp:106084:1"/>
+            <pb n="1" facs="tcp:106084:1"/>
+            <head>Some Meditations on the Hiſtory recorded in the firſt fourteen Chapters of
+<hi>Exodus,</hi> in Meeter.</head>
+            <lg>
+               <l>The Sons of <hi>Jacob</hi> dwelt in <hi>Egypt,</hi> where <note place="margin">Ch. 1. <hi>v.</hi>
+7. 9.</note>
+               </l>
+               <l>Their great <hi>Encreaſe</hi> made the <hi>Egyptians</hi> fear.</l>
+               <l>Two cauſes of it are aſſign'd; the one,</l>
+               <l>They'l <hi>joyn</hi> with <hi>foes,</hi> the other, they'l <hi>be gone.</hi> 
+                  <note place="margin">10.</note>
+               </l>
+               <l>Stay now, let's think: And was there Cauſe indeed</l>
+               <l>To have <hi>ſuch</hi> thoughts of honeſt <hi>Jacobs ſeed?</hi>
+               </l>
+               <l>Would <hi>they</hi> betray the Land where they were bred, <note place="margin">
+                     <hi>Gen.</hi> 12.
+10 42, 1.</note>
+               </l>
+               <l>Where their <hi>fore Fathers</hi> more then once were fed</l>
+               <l>In their diſtreſs? No, no, this could not be,</l>
+               <l>They had more holy ingenuity.</l>
+               <l>Or would they leave their <hi>Native</hi> Country? leave</l>
+               <l>A fruitful <hi>Goſhen;</hi> and themſelves bereave</l>
+               <l>Of houſe and home, and knew not where to go?</l>
+               <l>No, never think it; They'd more wit then ſo.</l>
+               <l>But yet there's ſomewhat in't; perhaps 't may be</l>
+               <l>
+                  <hi>Pharo'h</hi> was <hi>conſcious</hi> to himſelf that he,</l>
+               <l>Had wrong'd them in there liberties; and craves</l>
+               <l>To keep them ſtill, as profitable <hi>Slaves;</hi>
+               </l>
+               <l>Had ſtinted their <hi>Religion;</hi> (for that Nation</l>
+               <l>Mayn't ſacrifice th' <hi>Egyptians</hi> 'bomination.) <note place="margin">Ch. 8. 20</note>
+               </l>
+               <l>Perhaps <hi>their</hi> thoughts <hi>his</hi> thoughts thus repreſent:</l>
+               <l>Why ſhall <hi>wee Pharo'bs</hi> happineſs reſent?</l>
+               <l>Why ſhall <hi>we</hi> fight? what matters it, ſince we</l>
+               <l>Muſt ſtill be <hi>Aſſes, who</hi> the loaders be?</l>
+               <l>What? is our <hi>publique worſhip</hi> nothing worth?</l>
+               <l>Gods <hi>Heav'nly</hi> Ordinances? Come; let's forth</l>
+               <l>
+                  <pb n="2" facs="tcp:106084:2"/> Into the wilderneſs; 'tis better <hi>there</hi>
+               </l>
+               <l>With God, then with theſe black <hi>Egyptians here</hi>
+               </l>
+               <l>
+                  <hi>Joſeph</hi>'s forgot, and we requited thus: <note place="margin">Ch. 1. 8. <hi>Ge. 47. 20. occulta revelans Gen.</hi> 41. 45</note>
+               </l>
+               <l>He got him all, who now takes all from us:</l>
+               <l>Had <hi>Zaphnath paaneah</hi> this fore-known;</l>
+               <l>He'ad ne're ſo ſtrengthen'd <hi>him,</hi> to ſpoyle his <hi>own</hi>
+               </l>
+               <l>Conſcience thus works, thus ſpeaks, what no man dares</l>
+               <l>That's no <hi>Courtflatterer;</hi> that no man ſpares.</l>
+               <l>Come let us wiſely deal with them (saith he) <note place="margin">
+                     <hi>v.</hi> 10.</note>
+               </l>
+               <l>Leſt <hi>they</hi> the Landlords, and <hi>we</hi> Tenants be:</l>
+               <l>Let's <hi>tax</hi> them roundly; make them ſerve with <hi>rigor;</hi> 
+                  <note place="margin">14.</note>
+               </l>
+               <l>Mortar and bricks lay on, lay on, with vigor.</l>
+               <l>Their bitter lives ſhall ſweeten mine, their charge</l>
+               <l>My <hi>Treaſuries</hi> and Treaſures ſhall enlarge, <note place="margin">11.</note>
+               </l>
+               <l>But 't was a policy, which God ne're <hi>blest;</hi>
+               </l>
+               <l>The more they <hi>grew,</hi> the more they were <hi>opprest.</hi>
+               </l>
+               <l>Yet hee'l not leave it ſo; hee'l next aſſail</l>
+               <l>A private Plot, when publique force does fail.</l>
+               <l>He calls the <hi>Midwives;</hi> bids them ſlay the <hi>Boyes,</hi> 
+                  <note place="margin">15.</note>
+               </l>
+               <l>Preſerve the <hi>Girls;</hi> there's ruine without <hi>Noyſe.</hi>
+               </l>
+               <l>The <hi>Females</hi> may be ſav'd to ſerve our <hi>lust;</hi>
+               </l>
+               <l>The <hi>Males</hi> deſtroy, for them we dare not <hi>trust:</hi>
+               </l>
+               <l>This <hi>age</hi> let's well <hi>keep under,</hi> and their <hi>breed,</hi>
+               </l>
+               <l>This will prevent, that none ſhall them <hi>ſucceed.</hi>
+               </l>
+               <l>Come, this will do our buſineſs.—Ney pray ſtay;</l>
+               <l>Gods <hi>promiſe</hi> ſure will lay a rub ith' way:</l>
+               <l>
+                  <hi>Abrahams</hi> line muſt lengthen'd be; his heirs <note place="margin">
+                     <hi>Pſ. 45. 16. Gen.</hi> 17. 5. 8.</note>
+               </l>
+               <l>Muſt live to ſee the Land of <hi>Canaan</hi> theirs.</l>
+               <l>The Midwives fearing <hi>God</hi> more then the <hi>King)</hi>
+               </l>
+               <l>Wave th'hangmans ſtrangling office, and do bring <note place="margin">
+                     <hi>v.</hi> 21.</note>
+               </l>
+               <l>A flye excuſe; Thereby his craft befool:</l>
+               <l>Oh! 'tis not <hi>every</hi> one will make a <hi>Tool.</hi>
+               </l>
+               <l>
+                  <hi>Dirty employment's</hi> only fit for thoſe</l>
+               <l>That <hi>Dirty fellows</hi> are; Carrion for Crows.</l>
+               <l>God made them <hi>Houſes—ſuch</hi> will better be, <note place="margin">21.</note>
+               </l>
+               <l>Then rais'd by reward's of iniquity.</l>
+               <l>
+                  <pb facs="tcp:106084:2"/> But, ſince <hi>theſe</hi> will uot do't; he next will try,</l>
+               <l>Who'le give a <hi>cruel pledge</hi> of loyalty?</l>
+               <l>He <hi>charges all</hi> his people, nor did doubt, <note place="margin">23.</note>
+               </l>
+               <l>But <hi>Blood-Hounds</hi> might be found among the <hi>rout:</hi>
+               </l>
+               <l>As after <hi>Saul</hi> found none amongſt his friends, <note place="margin">1 <hi>Sam.</hi> 22.
+17, 18, 19.</note>
+               </l>
+               <l>His <hi>Loyal Iſraelites,</hi> to work his ends,</l>
+               <l>Yet had an <hi>Edomite</hi> (fit for the job)</l>
+               <l>That ſlew <hi>Gods Priests,</hi> and overthrew <hi>their NOB.</hi>
+               </l>
+               <l>
+                  <hi>And now</hi> is <hi>Moſes</hi> born; <hi>hid</hi> for a while; <note place="margin">Ch. 2.
+2. <hi>v.</hi> 3. 5.</note>
+               </l>
+               <l>
+                  <hi>Expoſ'd;</hi> made <hi>Pharoh's Grandſon</hi> by a wile.</l>
+               <l>God counter-plots the plotter; makes <hi>him</hi> keep</l>
+               <l>
+                  <hi>(Wolfe</hi> as he was) a <hi>Shepherd</hi> for his <hi>Sheep.</hi> 
+                  <note place="margin">10.</note>
+               </l>
+               <l>Let none as <hi>born</hi> in a <hi>bad time,</hi> repine,</l>
+               <l>Whom <hi>God</hi> may for ſome <hi>ſpecial</hi> work deſign;</l>
+               <l>It matters not what <hi>Age,</hi> or in what <hi>Nation;</hi>
+               </l>
+               <l>So that we <hi>ſerve</hi> him in our <hi>Generation.</hi> 
+                  <note place="margin">
+                     <hi>Act.</hi> 13.
+36 11.</note>
+               </l>
+               <l>
+                  <hi>Moſes</hi> is grown a <hi>Man;</hi> goes forth to ſee</l>
+               <l>His poor <hi>oppreſſed Brethrens</hi> miſerie.</l>
+               <l>Does an <hi>Heroick</hi> act of Juſtice; ſmites <note place="margin">12. 13. 14.
+15.</note>
+               </l>
+               <l>A ſierce <hi>Egyptian;</hi> Chides two <hi>Iſraelites</hi>
+               </l>
+               <l>That were a <hi>wrangling,</hi> but had ſuch reply,</l>
+               <l>As made him firſt to <hi>fear,</hi> and then to fly.</l>
+               <l>Thus oft, who <hi>others,</hi> would make <hi>friends</hi> gets <hi>foes;</hi>
+               </l>
+               <l>And he, that will <hi>part fighters,</hi> meets with <hi>blows.</hi>
+               </l>
+               <l>He dwelt with <hi>Revel; Zipporah</hi> he marries; <note place="margin">21. 22. 23. 24.</note>
+               </l>
+               <l>Has <hi>Gerſhom</hi> by her, and <hi>long</hi> there he tarries,</l>
+               <l>Till he was quite <hi>forgot,</hi> and <hi>Pharoh</hi> dead,</l>
+               <l>Till God <hi>his covenant</hi> remembered.</l>
+               <l>Let none think, <hi>God forgets</hi> us, or <hi>neglects;</hi>
+               </l>
+               <l>He <hi>lookes</hi> on <hi>Iſrael,</hi> and them <hi>reſpects.</hi> 
+                  <note place="margin">25.</note>
+               </l>
+               <l>Let none think Gods <hi>time long,</hi> for he beſt knows,</l>
+               <l>When <hi>we</hi> are fit for <hi>mercies, they</hi> for <hi>woes.</hi>
+               </l>
+               <l>Now is he call'd from keeping <hi>Jethroes</hi> ſheep, <note place="margin">Ch. 3. 1.</note>
+               </l>
+               <l>To feed <hi>Gods</hi> flock, and them to guide, and keep.</l>
+               <l>As after, ſome <hi>Apostles</hi> from their trade,</l>
+               <l>
+                  <hi>Eiſhers of Fiſh, Fiſhers</hi> of <hi>Men</hi> were made. <note place="margin">
+                     <hi>Mat.</hi> 4 19</note>
+               </l>
+               <l>
+                  <pb facs="tcp:106084:3"/> A noble change; but time rouſly, he ſhrinks; <note place="margin">
+                     <hi>v.</hi>
+11.</note>
+               </l>
+               <l>Alas! it is too high for him, he thinks.</l>
+               <l>Though in the <hi>Burning-Buſh</hi> God had declar'd</l>
+               <l>The <hi>burthen'd Iſrael</hi> ſhould at laſt be <hi>ſpar'd.</hi> 
+                  <note place="margin">Ch.
+3. 8.</note>
+               </l>
+               <l>Yet could he not diſcern how it ſhould be</l>
+               <l>Effected by ſo <hi>mean</hi> a <hi>Man</hi> as he.</l>
+               <l>Can I before the <hi>Mighty Pharo'h</hi> ſtand? <note place="margin">11. 12. 13. 8.</note>
+               </l>
+               <l>VVhy not? (ſays God) Ile <hi>lead</hi> thee by the hand.</l>
+               <l>And will the <hi>Iſraelites</hi> believe <hi>poor mee?</hi>
+               </l>
+               <l>Yea that they ſhall (ſayes God) by what they 'I <hi>ſee.</hi>
+               </l>
+               <l>
+                  <hi>Jehovah</hi> ſhews him <hi>wonders,</hi> cures <hi>his</hi> fears; <note place="margin">Ch.
+4. 2.</note>
+               </l>
+               <l>Strengthens <hi>his</hi> faith, that <hi>he</hi> might ſtrengthen theirs</l>
+               <l>See here, and <hi>imitate</hi> a humble ſoul:</l>
+               <l>See here a <hi>faith,</hi> that does a <hi>fear</hi> controul.</l>
+               <l>Yet <hi>fear Repullulates,</hi> hee'd fain be free:</l>
+               <l>I am not fit: <hi>Send</hi> whom thou wilt for <hi>me.</hi> 
+                  <note place="margin">13.</note>
+               </l>
+               <l>
+                  <hi>Bold cowardiſe,</hi> that <hi>dares</hi> Gods precept break;</l>
+               <l>Yet feares before a <hi>mortal Man</hi> to ſpeak:</l>
+               <l>
+                  <hi>Blind Senſuality,</hi> that counteth even</l>
+               <l>A <hi>Glittering Gloworm</hi> to the light of <hi>Heaven.</hi>
+               </l>
+               <l>He pleads a ſloath of <hi>ſpeech,</hi> would not be ſent, <note place="margin">10.</note>
+               </l>
+               <l>Becauſe (forſooth) he was not <hi>Eloquent:</hi>
+               </l>
+               <l>Whereas <hi>Court-Preechors</hi> muſt be <hi>Glib</hi> and <hi>free,</hi>
+               </l>
+               <l>
+                  <hi>Smooth-tongu'd,</hi> as I am not (O ſend not mee)</l>
+               <l>Neither <hi>before,</hi> not <hi>ſince</hi> I ſpake with thee. <note place="margin">10.</note>
+               </l>
+               <l>God condeſcends to weakneſs, and allow'th</l>
+               <l>His brother <hi>Aaron</hi> to become his <hi>mouth.</hi> 
+                  <note place="margin">14.</note>
+               </l>
+               <l>And <hi>now</hi> are anſwer'd all his little <hi>pleas</hi>
+               </l>
+               <l>And <hi>now</hi> he muſt away without <hi>delaies.</hi>
+               </l>
+               <l>
+                  <hi>Delaies are dangerous,</hi> but yet take heed,</l>
+               <l>We mind our <hi>hast</hi> no more then our <hi>good ſpeed:</hi>
+               </l>
+               <l>He takes his leave; proceeding with his wife, <note place="margin">10.</note>
+               </l>
+               <l>And Son <hi>uncircumciſ'd;</hi> whereby his life</l>
+               <l>Is brought in <hi>danger,</hi> 'twas becauſe that <hi>he</hi> 
+                  <note place="margin">24.</note>
+               </l>
+               <l>
+                  <hi>To Iſrael</hi> a <hi>comforter</hi> would be</l>
+               <l>
+                  <pb n="5" facs="tcp:106084:3"/> By <hi>Covenant,</hi> and yet neglects the <hi>Seal:</hi>
+               </l>
+               <l>Wilt <hi>thou</hi> (ſays God) my holy will reveal?</l>
+               <l>Declare my name to <hi>others,</hi> that <hi>they</hi> fear it,</l>
+               <l>And thou thy <hi>ſelf</hi> forget me? I'le not bear it.</l>
+               <l>
+                  <hi>Reformers</hi> muſt <hi>Reformed</hi> be: Who <hi>Preaches,</hi>
+               </l>
+               <l>Muſt firſt <hi>believe</hi> and <hi>practice</hi> what he <hi>teaches.</hi>
+               </l>
+               <l>
+                  <hi>Moſes</hi> thus warn'd, his Son doth circumciſe: <note place="margin">25.</note>
+               </l>
+               <l>Draws <hi>blood</hi> from <hi>Gerſhom, tears</hi> from <hi>Zipporahs</hi> eyes.</l>
+               <l>Oh <hi>Bloody</hi> husband (cryes ſhe) <hi>Man</hi> of <hi>blood:</hi> 
+                  <note place="margin">26.</note>
+               </l>
+               <l>Carnal <hi>relations</hi> often hinder <hi>good.</hi>
+               </l>
+               <l>But it is better <hi>friends</hi> then <hi>God</hi> t' offend;</l>
+               <l>Make <hi>friends</hi> our <hi>enemies,</hi> keep <hi>God</hi> our <hi>friend.</hi>
+               </l>
+               <l>Now on he goes; his brother <hi>Aaron</hi> meets him. <note place="margin">27.</note>
+               </l>
+               <l>(Sent forth by God) and brotherly he greets him;</l>
+               <l>And hand in hand they into <hi>Egypt</hi> go, <note place="margin">29.</note>
+               </l>
+               <l>
+                  <hi>Congregate Iſrael,</hi> and to them ſhow</l>
+               <l>Gods <hi>wondrous works,</hi> and <hi>gracious words;</hi> which ſaid, <note place="margin">30.
+31.</note>
+               </l>
+               <l>
+                  <hi>Iſrael</hi> believes, <hi>worſhips,</hi> and bows the head.</l>
+               <l>
+                  <hi>Approaching mercies,</hi> when they do appear,</l>
+               <l>Should be receiv'd with <hi>reverence,</hi> and <hi>fear.</hi>
+               </l>
+               <l>To <hi>Pharo'h</hi> fruitful <hi>Egypts</hi> mighty King, <note place="margin">Ch. 5.
+1.</note>
+               </l>
+               <l>Next they addreſs, and do this <hi>meſſage</hi> bring;</l>
+               <l>The <hi>God</hi> of <hi>Jacob</hi> ſaith, <hi>Let Iſrael go,</hi>
+               </l>
+               <l>And <hi>worſhip me;</hi> the <hi>Lord</hi> will have it ſo.</l>
+               <l>The <hi>Lord?</hi> (ſayes <hi>Pharo'h)</hi> ſtay; I do not know him; <note place="margin">2.</note>
+               </l>
+               <l>Nor any <hi>Suit,</hi> or <hi>Service</hi> that I <hi>owe</hi> him;</l>
+               <l>Who <hi>is the Lord?</hi> The <hi>Hebrews</hi> God (ſay they) <note place="margin">3.</note>
+               </l>
+               <l>Hath us <hi>commanded;</hi> Let us <hi>go</hi> wee <hi>pray.</hi>
+               </l>
+               <l>A three-days Journey in the <hi>deſart, there</hi>
+               </l>
+               <l>To <hi>Sacriſice,</hi> for <hi>otherwiſe</hi> we fear</l>
+               <l>Hee'l angry be; if <hi>we</hi> neglect his word,</l>
+               <l>Hee'l fall on us with <hi>Psstilence</hi> and <hi>Sword.</hi>
+               </l>
+               <l>Here's <hi>Gods command,</hi> and <hi>Iſraels request,</hi>
+               </l>
+               <l>Whereby in humble manner he is preſt:</l>
+               <l>
+                  <hi>Iſrael's</hi> in danger, if <hi>they</hi> do not do it;</l>
+               <l>If <hi>Pharo'h lets</hi> them, then let <hi>him</hi> look to it.</l>
+               <l>
+                  <pb n="6" facs="tcp:106084:4"/> If <hi>they</hi> a Sword, and Peſtilence do fear,</l>
+               <l>Then what may <hi>He,</hi> that is their hinderer.</l>
+               <l>But hee's reſolv'd. Go; get you gon (ſays he)</l>
+               <l>
+                  <hi>Moſes</hi> and <hi>Aaron;</hi> to your burthens; <hi>yee</hi> 
+                  <note place="margin">4.</note>
+               </l>
+               <l>Doe hinder buſineſs; you that are but <hi>two</hi>
+               </l>
+               <l>Doe ſtay the work that <hi>many</hi> hands might doe. <note place="margin">5.</note>
+               </l>
+               <l>Then doth he call the <hi>Taskers;</hi> makes this <hi>Law;</hi>
+               </l>
+               <l>Require the <hi>Tale</hi> of <hi>Bricks,</hi> allow <hi>no Straw.</hi> 
+                  <note place="margin">7. 8.
+8.</note>
+               </l>
+               <l>For they are <hi>Idle; hence</hi> ariſe their cries,</l>
+               <l>Let us go <hi>worſhip God,</hi> go <hi>ſacrifice.</hi>
+               </l>
+               <l>Wretched <hi>uncharitableneſs</hi> is thine,</l>
+               <l>That thinkeſt <hi>all Religion</hi> but <hi>deſigne.</hi>
+               </l>
+               <l>Not to pleaſe <hi>God,</hi> onely our <hi>ſelves</hi> to pleaſe:</l>
+               <l>Not <hi>inward comfort,</hi> but for <hi>outward eaſe.</hi>
+               </l>
+               <l>Lay on more work, and keep them at it hard: <note place="margin">9.</note>
+               </l>
+               <l>Their <hi>vain religious canting</hi> ne're regard.</l>
+               <l>'Tis ſaid; 'tis done; <hi>they</hi> find it to their grief. <note place="margin">10. 14.
+15.</note>
+               </l>
+               <l>And <hi>first</hi> they fly to <hi>Pharo'h</hi> for relief:</l>
+               <l>Oh! Why are we thus hardly dealt withall?</l>
+               <l>How <hi>can</hi> we <hi>work</hi> without <hi>materiall?</hi> 
+                  <note place="margin">16.</note>
+               </l>
+               <l>
+                  <hi>Thy</hi> people are in fault, and <hi>wee</hi> are beaten:</l>
+               <l>
+                  <hi>Pharo'h</hi> (inſtead of helping them does threaten, <note place="margin">17.</note>
+               </l>
+               <l>Sends them away with <hi>ſcorn:</hi> Go <hi>Idlers,</hi> go,</l>
+               <l>(Youl'd ſerve the <hi>Lord?</hi> Serve <hi>Mee:)</hi> I'le have it ſo.</l>
+               <l>Hear how the <hi>Harpy</hi> harps upon that word;</l>
+               <l>You'r <hi>Idle;</hi> you would go and <hi>ſerve</hi> the <hi>Lord?</hi>
+               </l>
+               <l>A <hi>Pharoh's</hi> better <hi>farther</hi> off then nigh one;</l>
+               <l>
+                  <hi>Sheep</hi> little get, by comming near the <hi>Lyon:</hi>
+               </l>
+               <l>This will not do; <hi>Moſes</hi> and <hi>Aaron next</hi> 
+                  <note place="margin">20.</note>
+               </l>
+               <l>They met, but being grieviouſly perplext,</l>
+               <l>They charge <hi>them</hi> as the <hi>cauſe</hi> of all their <hi>wo;</hi> 
+                  <note place="margin">21.</note>
+               </l>
+               <l>Had it not been for <hi>you,</hi> 't had not been <hi>ſo.</hi>
+               </l>
+               <l>
+                  <hi>You</hi> made's <hi>believe</hi> and put <hi>trust</hi> in the <hi>Lord,</hi>
+               </l>
+               <l>And this hath put in <hi>Pharo'hs</hi> hand a <hi>ſword.</hi>
+               </l>
+               <l>Never was ſo ſevere th' <hi>Egyptian rod,</hi> 
+                  <note place="margin">23.</note>
+               </l>
+               <l>Till you perſwaded us to <hi>worſhip God.</hi>
+               </l>
+               <l>
+                  <pb n="7" facs="tcp:106084:4"/> 
+                  <hi>Moſes</hi> to God <hi>complains,</hi> Why was I ſent <note place="margin">22.</note>
+               </l>
+               <l>To <hi>Iſrael,</hi> their <hi>ſorrows</hi> to augment?</l>
+               <l>
+                  <hi>Jehovah</hi> anſwers; <hi>I</hi> do <hi>hear</hi> their <hi>cryes;</hi> 
+                  <note place="margin">Ch. 6. 5.</note>
+               </l>
+               <l>
+                  <hi>See</hi> their <hi>distreſſes; I</hi> do <hi>Sympathiſe:</hi>
+               </l>
+               <l>Do <hi>feel</hi> their <hi>loads. Moſes</hi> again is ſent</l>
+               <l>With a new <hi>Covenant, new</hi> encouragement. <note place="margin">6. 7. 9.</note>
+               </l>
+               <l>But <hi>Iſrael,</hi> that under griefs doth languiſh,</l>
+               <l>Cannot hear God nor <hi>Moſes</hi> for their anguiſh.</l>
+               <l>O men of <hi>little faith</hi> that cannot <hi>ſee</hi>
+               </l>
+               <l>For <hi>tears,</hi> th' <hi>Almighties</hi> Al-ſufficiency!</l>
+               <l>O! men of <hi>feeble ſpirits,</hi> that for <hi>one</hi>
+               </l>
+               <l>
+                  <hi>Rough paſſage,</hi> doubt of their <hi>redemption!</hi>
+               </l>
+               <l>O <hi>little love</hi> you ſhew, that will depart</l>
+               <l>From your <hi>Religion,</hi> for a little <hi>ſmart!</hi>
+               </l>
+               <l>
+                  <hi>Moſes again</hi> is ſent unto the <hi>King:</hi> 
+                  <note place="margin">11.</note>
+               </l>
+               <l>But now (alas) <hi>his</hi> faith is wavering;</l>
+               <l>For, if (ſaith he) <hi>Iſrael</hi> will not hear <note place="margin">12.</note>
+               </l>
+               <l>My meſſage, <hi>Pharo'h</hi> will <hi>much leſs</hi> I fear.)</l>
+               <l>But God doth <hi>charge</hi> him and his brother both, <note place="margin">13.</note>
+               </l>
+               <l>And therefore in they go (though very loath.)</l>
+               <l>Thus <hi>Stars</hi> of <hi>greatest magnitude</hi> (wee ſee)</l>
+               <l>With <hi>fogs</hi> and clouds ſometimes <hi>obſcured</hi> bee.</l>
+               <l>Thus <hi>strongest pillars</hi> of the <hi>Church,</hi> with weight</l>
+               <l>Will <hi>bow</hi> a little, till <hi>God</hi> ſet them <hi>right.</hi>
+               </l>
+               <l>When into <hi>Pharohs preſence</hi> they were come.</l>
+               <l>He frowning ſayes, what will theſe <hi>troubleſome</hi>
+               </l>
+               <l>And <hi>ill bred</hi> fellows have? they know our will:</l>
+               <l>They have our <hi>anſwer:</hi> Will you ne're be ſtill?</l>
+               <l>Where's your <hi>commiſſion?</hi> mak't appear that you</l>
+               <l>Are ſent of God, and that your God is true.</l>
+               <l>Shew us ſome tricks our <hi>High Priests</hi> can doe this</l>
+               <l>By power from <hi>our</hi> Gods <hi>Iſis, Oſiris,</hi>
+               </l>
+               <l>Our Garden gods, <hi>Leekes, Onions;</hi> (O the dotage <note place="margin">Naſcutur in hortis numina. <hi>Ch.</hi> 7. 10.</note>
+               </l>
+               <l>That <hi>ſhreds divinity</hi> to make their <hi>Pottage:)</hi>
+               </l>
+               <l>Then <hi>Aaron</hi> caſt upon the ground his <hi>rod;</hi>
+               </l>
+               <l>'Tis chang'd into a <hi>Serpent</hi> by his God.</l>
+               <l>
+                  <pb n="8" facs="tcp:106084:5" rendition="simple:additions"/> The Jugling-wizzards <hi>Pharo'h</hi> calls, and they <note place="margin">11.</note>
+               </l>
+               <l>Perform the like: But ſoon are made a prey,</l>
+               <l>To <hi>Aarons</hi> Serpent, all their Magick fry. <note place="margin">12.</note>
+               </l>
+               <l>Thus <hi>ſolid Reaſon</hi> ſwallows ſophiſtry.</l>
+               <l>
+                  <hi>Pharo'h</hi> is hardned: Tuſh! (ſaith he) for this <note place="margin">13.</note>
+               </l>
+               <l>I care not, while it doth not <hi>bite,</hi> but <hi>hiſs.</hi>
+               </l>
+               <l>Thus ſome men <hi>Comets</hi> to a jeſt do turn,</l>
+               <l>Becauſe they onely <hi>blaze,</hi> and doe not <hi>burn;</hi>
+               </l>
+               <l>Although (perhaps) ſometimes they do <hi>foreſhew</hi>
+               </l>
+               <l>
+                  <hi>Burning</hi> of <hi>Cities,</hi> and of <hi>Navies</hi> too.</l>
+               <l>They ſhall not go; no? Sure it were as good,</l>
+               <l>You did permit them: Next ſign ſhall be <hi>Blood;</hi> 
+                  <note place="margin">17. 18. 19.
+21.</note>
+               </l>
+               <l>Blood in the rivers, choaking all the fiſhes;</l>
+               <l>Blood in your ponds, ſtone pots, and wooden diſhes;</l>
+               <l>Blood that ſhall putrifie the air, and ſtink;</l>
+               <l>Blood in the waters, you ſhall lothe to drink.</l>
+               <l>'Tis done: <hi>Hell vicars</hi> ape this too: His will <note place="margin">22.</note>
+               </l>
+               <l>Is obſtinate; <hi>Pharo'h</hi> is <hi>Pharo'h still.</hi>
+               </l>
+               <l>This is the <hi>first</hi> plague, and indeed 'tis great,</l>
+               <l>(Though greater follow) 'tis about their <hi>meat:</hi>
+               </l>
+               <l>Though ſome are of opinion, and will tell ye</l>
+               <l>
+                  <hi>Fiſh is no meat,</hi> for you may fill your belly</l>
+               <l>Therewith, and yet keep <hi>fasting daies.</hi> But I</l>
+               <l>(Saving their reverence) think it <hi>drollery.</hi>
+               </l>
+               <l>Now enter <hi>Frogs</hi> filling their region, <note place="margin">Ch. 8. 2.</note>
+               </l>
+               <l>Water, and Land (a frog's <hi>Amphibion)</hi>
+               </l>
+               <l>Some ſwim in broths, ſome baked in their bread. <note place="margin">3.</note>
+               </l>
+               <l>Some are cold crawlers in their naked bed.</l>
+               <l>Some mufick croak to <hi>Pharo'h,</hi> and perchance, <note place="margin">4.</note>
+               </l>
+               <l>Some in his Preſence-Chamber skip and dance.</l>
+               <l>'Tis true his Prieſts had try'd what they could do,</l>
+               <l>And (through permiſſion) frogs they <hi>brought up</hi> too:</l>
+               <l>But can they <hi>drive</hi> them <hi>down?</hi> Now let them prove it</l>
+               <l>They can <hi>bring</hi> miſchief but they can't <hi>remove</hi> it.</l>
+               <l>Thus when, with <hi>Moſes,</hi> they dare enter liſts,</l>
+               <l>Th' appear <hi>Enchanters</hi> but no <hi>Exorcists.</hi>
+               </l>
+               <l>
+                  <pb n="9" facs="tcp:106084:5"/> 
+                  <hi>Moſes</hi> muſt be entreated now to pray,</l>
+               <l>This loathſome judgment may be ta'ne away.</l>
+               <l>Wretches may <hi>need,</hi> and <hi>beg</hi> the <hi>prayers</hi> of thoſe</l>
+               <l>
+                  <hi>Sometimes,</hi> whom <hi>otherwhile</hi> they moſt <hi>oppoſe.</hi>
+               </l>
+               <l>And in <hi>deſign</hi> would their <hi>religion</hi> uſe,</l>
+               <l>Whoſe <hi>Perſons</hi> and <hi>Religion</hi> they abuſe.</l>
+               <l>Now that, in this, his <hi>turn</hi> might <hi>ſerved</hi> be,</l>
+               <l>He makes a <hi>promiſe; Iſrael</hi> ſhall go free: <note place="margin">9. 8.</note>
+               </l>
+               <l>Tis the <hi>word</hi> of a <hi>King,</hi> ſet thoughts at reſt,</l>
+               <l>It ſhall be done: There's <hi>honour</hi> in this <hi>breast.</hi>
+               </l>
+               <l>
+                  <hi>Goodneſs</hi> and <hi>greatneſs,</hi> did they alwaies meet,</l>
+               <l>Then <hi>peace</hi> and <hi>righteouſneſs</hi> would alwaies greet;</l>
+               <l>But 'tis the <hi>Scripture</hi> ſaith; men that are high <note place="margin">
+                     <hi>Pſ.</hi> 62.
+9.</note>
+               </l>
+               <l>In their degree (in th <hi>Abstarct)</hi> are a lie.</l>
+               <l>
+                  <hi>Moſes</hi> doth try his truth, prayes off the frogs: <note place="margin">12. 13.
+15.</note>
+               </l>
+               <l>They die on Land and onely live in bogs.</l>
+               <l>Th' <hi>Egyptian reſpited,</hi> the <hi>Gypſie</hi> playd;</l>
+               <l>Retracts his word, denyes what he had ſaid.</l>
+               <l>A complicated ſin; he <hi>breaks</hi> his <hi>word,</hi>
+               </l>
+               <l>Not onely with the <hi>men,</hi> but with the <hi>Lord.</hi>
+               </l>
+               <l>The <hi>matter</hi> of his Cov'nant was <hi>ſublime,</hi>
+               </l>
+               <l>Encreaſes guilt, and aggravates the <hi>crime.</hi>
+               </l>
+               <l>God is offended greatly, and now muſt</l>
+               <l>The wonder-working Rod enliven duſt. <note place="margin">16.</note>
+               </l>
+               <l>
+                  <hi>Beggars</hi> and <hi>Cheats</hi> they were before, and now</l>
+               <l>
+                  <hi>Louſy Egyptians</hi> all, from Throne to Plow. <note place="margin">17. 18.</note>
+               </l>
+               <l>Then try the Artiſts (Chaplains of the <hi>Houſe</hi>
+               </l>
+               <l>And all there Art can't <hi>feign</hi> a <hi>little Louſe.</hi>
+               </l>
+               <l>
+                  <hi>Jannes</hi> and <hi>Jambres</hi> time is out, and all <note place="margin">2 <hi>Tim.</hi> 3.
+8.</note>
+               </l>
+               <l>Their ſtore is ſpent, <hi>Jannes</hi> and <hi>Jambres</hi> fall;</l>
+               <l>Thoſe <hi>two Arch-flamins</hi> of his kingdom, thoſe</l>
+               <l>That <hi>Pharo'h hardu'd, Moſes</hi> did <hi>oppoſe;</hi>
+               </l>
+               <l>Who now <hi>themſelves</hi> confeſs it is Gods hand, <note place="margin">19. <hi>Iſa.</hi>
+26. 11. <hi>Lu.</hi> 23. 47 Act. 16 17</note>
+               </l>
+               <l>That thus afflicted had th' <hi>Egyptian</hi> land.</l>
+               <l>Though ſinners long perſiſt, and will not <hi>ſee.</hi>
+               </l>
+               <l>Heaven will at laſt, by <hi>Hell,</hi> acknowledg'd bee.</l>
+               <l>
+                  <pb n="10" facs="tcp:106084:6"/> But <hi>Pharo'hs</hi> lofty ſpirit will not hear'm; <note place="margin">19.
+24. <hi>princeps muſcarum</hi> 22.</note>
+               </l>
+               <l>More judgments muſt come on, and he muſt bear'm.</l>
+               <l>Then grievous ſwarmes of <hi>flies</hi> poſſeſs the air</l>
+               <l>As if <hi>Belzebub</hi> had <hi>dominion</hi> there.</l>
+               <l>
+                  <hi>Goſhen</hi> is free.—Herein his power he ſhows</l>
+               <l>To <hi>ſave</hi> his people when he <hi>plagues</hi> his foes.</l>
+               <l>Men make <hi>distinctions</hi> with <hi>miſcheivous</hi> heart:</l>
+               <l>God <hi>ſeals</hi> for ſafety, keeps them ſtill apart.</l>
+               <l>
+                  <hi>Moſes,</hi> O <hi>Moſes</hi> help me <hi>(Pharo'h</hi> cryes)</l>
+               <l>Go <hi>worſhip now</hi> your God, go <hi>ſacrifice;</hi> 
+                  <note place="margin">25.</note>
+               </l>
+               <l>Only let it be <hi>in the Land,</hi> I pray,</l>
+               <l>To going out, <hi>reaſon of state</hi> ſaies nay.</l>
+               <l>He would compound a <hi>Gallimauphery;</hi>
+               </l>
+               <l>
+                  <hi>Part</hi> Gods command, and <hi>part state pollicy.</hi>
+               </l>
+               <l>Methinks I hear him ſay; What does poſſeſs</l>
+               <l>Your minds to worſhip in a wilderneſs.</l>
+               <l>'Twere more auguſt here: Loe (for your contents)</l>
+               <l>Wee'l <hi>Temples</hi> lend <hi>Utinſels, Ornaments.</hi>
+               </l>
+               <l>You may your <hi>own</hi> God keep and <hi>conſcience</hi> too</l>
+               <l>Though <hi>amongst us, like us</hi> you ſeem to do.</l>
+               <l>But 'twil not do; a <hi>little more</hi> he yeelds: <note place="margin">26. 28.</note>
+               </l>
+               <l>Let it be wilderneſs, but <hi>near our fields;</hi>
+               </l>
+               <l>For if <hi>from us</hi> you do <hi>depart too far,</hi>
+               </l>
+               <l>We ſhall ſuſpect, you doe <hi>intend</hi> a <hi>War.</hi>
+               </l>
+               <l>Once more (ſayes <hi>Moſes)</hi> to my God I'le cry; <note place="margin">29.</note>
+               </l>
+               <l>But deal not <hi>any more deceitfully.</hi>
+               </l>
+               <l>And reaſon good he <hi>now</hi> ſhould be <hi>ſuſpected</hi>
+               </l>
+               <l>That <hi>former</hi> obligations had <hi>rejected.</hi>
+               </l>
+               <l>The <hi>fly</hi> is gon. <hi>Pharo'h</hi> is ſtill the <hi>ſame</hi> 
+                  <note place="margin">31.
+32.</note>
+               </l>
+               <l>
+                  <hi>What ſhall we ſay to him that knows no ſhame?</hi>
+               </l>
+               <l>Come <hi>Murrein</hi> ſlay the cattel; Spare <hi>no mans,</hi> 
+                  <note place="margin">Ch. 8. 3.
+4.</note>
+               </l>
+               <l>But let it be <hi>onely Egyptians.</hi>
+               </l>
+               <l>He that would <hi>Iſraels</hi> have at his diſpoſe</l>
+               <l>Keeps not his <hi>own, all covet and all loſe.</hi>
+               </l>
+               <l>
+                  <hi>Pharo'h</hi> is hardned <hi>still:</hi> Come ſprinkle aſhes <note place="margin">7.
+8.</note>
+               </l>
+               <l>For <hi>botch and blayne;</hi> Ile whip with <hi>ſoarer</hi> laſhes;</l>
+               <l>
+                  <pb n="11" facs="tcp:106084:6"/> Let the <hi>Magicians</hi> feel them; try their <hi>skill</hi>
+                  <note place="margin">11. 12. 13. 14.</note>
+               </l>
+               <l>To cure themſelves. <hi>Pharo'h is hardned still.</hi>
+               </l>
+               <l>
+                  <hi>And still ſhall plagued be;</hi> ev'n on his <hi>heart:</hi>
+               </l>
+               <l>An <hi>inward ſearings</hi> worſe then outward ſmart.</l>
+               <l>Sad is his caſe, that's raiſed <hi>high alone</hi> 
+                  <note place="margin">16.</note>
+               </l>
+               <l>To ſhew Gods <hi>Justice</hi> and his <hi>Power</hi> upon.</l>
+               <l>Now warn them of a <hi>Storm,</hi> and let us ſee, <note place="margin">18. 19. 20.</note>
+               </l>
+               <l>If all <hi>Egyptians</hi> are as bad as he:</l>
+               <l>No; Some believe and fear; follow direction,</l>
+               <l>And for their goods and ſervants get protection.</l>
+               <l>It was a Storme <hi>indeed; Fire, Thunder, Hail,</hi> 
+                  <note place="margin">23.</note>
+               </l>
+               <l>Extreams of <hi>heat</hi> and <hi>cold</hi> made hearts to fail;</l>
+               <l>The <hi>Fire ran on the ground;</hi> as ſad September</l>
+               <l>Taught us to <hi>know;</hi> will teach us to <hi>remember.</hi>
+               </l>
+               <l>The <hi>fire diſperſ'd</hi> it ſelf over the land,</l>
+               <l>As if <hi>continued</hi> by a <hi>ſecret hand.</hi>
+               </l>
+               <l>Shall we hear more of <hi>Pharoh?</hi> Yes: His cry</l>
+               <l>Is <hi>Moſes, Aaron,</hi> help me or I dye: <note place="margin">27.</note>
+               </l>
+               <l>Hee's now grown <hi>penitent</hi> (at leaſt in <hi>ſhew)</hi>
+               </l>
+               <l>Oh I <hi>have ſin'd</hi> (he ſpeaks it <hi>falſely true)</hi>
+               </l>
+               <l>I and <hi>mine</hi> wicked are, <hi>your</hi> God is juſt:</l>
+               <l>(It is enough) pray him in whom you truſt: <note place="margin">28.</note>
+               </l>
+               <l>
+                  <hi>Dreadful experiments</hi> do prove him ſtronger;</l>
+               <l>I'le let you go, and ye ſhall <hi>stay no longer.</hi>
+               </l>
+               <l>Can any <hi>now</hi> make any doubt but he</l>
+               <l>To all his <hi>promiſes</hi> will faithful be?</l>
+               <l>A gentle <hi>mildeneſs</hi> does the man diſcover</l>
+               <l>(As <hi>Snakes</hi> in <hi>Winter</hi> till the Storms be over)</l>
+               <l>Though charity cannot but judg him right,</l>
+               <l>Yet is he <hi>falſe</hi> in the <hi>All-ſeers</hi> ſight.</l>
+               <l>Well, well, (ſays <hi>Moſes)</hi> let it be; I know</l>
+               <l>Y'are naught, and to your <hi>ruine</hi> will be ſo: <note place="margin">29. 30. 33.
+34.</note>
+               </l>
+               <l>The <hi>Haile</hi> is gon: What ſay you? Shall we go:</l>
+               <l>And <hi>ſerve our God?</hi> Anſwer directly: <hi>No.</hi>
+               </l>
+               <l>My <hi>promiſes</hi> were made in fear, I'me told</l>
+               <l>By all my <hi>Caſuists,</hi> ſuch do not <hi>hold.</hi>
+               </l>
+               <l>
+                  <pb n="12" facs="tcp:106084:7"/> Then look for <hi>Locusts,</hi> ſuch as have not been; <note place="margin">Ch.
+9, 4. 5. 6. 7.</note>
+               </l>
+               <l>Such multitudes, the earth ſhall not be ſeen.</l>
+               <l>This ſaid, the <hi>Prophets</hi> leave him: But the threat</l>
+               <l>So ſrights the <hi>Egyptians,</hi> that <hi>they</hi> him intreat</l>
+               <l>To lay to heart, <hi>Egypt</hi> is plagued ſo,</l>
+               <l>Onely for <hi>Iſraels ſake;</hi> O let them go!</l>
+               <l>Tis ſtrange that Interceſſors for them be</l>
+               <l>Inſtruments of his <hi>rage, their miſery.</hi>
+               </l>
+               <l>Well call them then (ſaies <hi>Pharoh)</hi> ask them who? <note place="margin">8.</note>
+               </l>
+               <l>What is the <hi>Number</hi> of them that would goe?</l>
+               <l>What <hi>Number?</hi> (is replyed) why even all; <note place="margin">9.</note>
+               </l>
+               <l>Men, Women, Children, Cattel, great and ſmall.</l>
+               <l>Nay; that ſhall never be; I'le <hi>breed</hi> your <hi>Sons;</hi> 
+                  <note place="margin">10.</note>
+               </l>
+               <l>They are my <hi>Wards:</hi> Go; leave your little <hi>ones.</hi>
+               </l>
+               <l>Unreaſonable men; I ſee it well,</l>
+               <l>If I <hi>concede</hi> an <hi>inch,</hi> you'l <hi>crave</hi> an <hi>ell.</hi>
+               </l>
+               <l>You onely ask'd for <hi>men</hi> alone; 'twas given;</l>
+               <l>Now you'l have all: Look to't: So for th they'r <hi>driven</hi> 
+                  <note place="margin">11.</note>
+               </l>
+               <l>The <hi>promiſe</hi> (ſure) had <hi>choak'd</hi> the man, without</l>
+               <l>
+                  <hi>Distinction and a lie,</hi> had help'd him out.</l>
+               <l>Hee'l have them in a <hi>rope;</hi> 'T was his intent</l>
+               <l>To <hi>draw</hi> them <hi>back</hi> in time convenient.</l>
+               <l>He never me'nt to let them <hi>quite</hi> go <hi>free,</hi>
+               </l>
+               <l>But had an eye unto <hi>posterity.</hi>
+               </l>
+               <l>Now the ſtrange <hi>locust</hi> come; Obey command; <note place="margin">14. 15.</note>
+               </l>
+               <l>Devouer every green upon the land.</l>
+               <l>God can make uſe of <hi>Frogs, Lice, Locusts, Elyes,</hi>
+               </l>
+               <l>Thus to ſubdue his <hi>proudeſt Enemies.</hi>
+               </l>
+               <l>
+                  <hi>Inſects</hi> commanded by the <hi>Lord</hi> of <hi>hoſts</hi>
+               </l>
+               <l>Are <hi>Concquering-Armies</hi> over him that <hi>boaſts.</hi>
+               </l>
+               <l>Gods meſſengers are <hi>haſtned</hi> in; 'tis true, <note place="margin">16.</note>
+               </l>
+               <l>O I have <hi>Sin'd</hi> againſt your <hi>God,</hi> and <hi>you.</hi>
+               </l>
+               <l>
+                  <hi>Forgive</hi> I pray this <hi>once,</hi> pray God above, <note place="margin">17.</note>
+               </l>
+               <l>That now he would <hi>this onely</hi> death remove.</l>
+               <l>Here's a <hi>confeſſion larger</hi> then before,</l>
+               <l>
+                  <hi>And pardon asked:</hi> Sure <hi>now</hi> hee'l ſin no more.</l>
+               <l>
+                  <pb n="13" facs="tcp:106084:7"/> You'd think ſo; but no good fruit can he bring;</l>
+               <l>Judicial hardneſs is a dreadful thing.</l>
+               <l>The Locuſts are blown off; but oh! alas! <note place="margin">19. 20.</note>
+               </l>
+               <l>The King's no Changeling, he is where he was.</l>
+               <l>O let not Mankind ſuffer by him; for</l>
+               <l>Nature does Monſters (ſuch as he) abhor:</l>
+               <l>Nor Reaſon, nor Philanthropy allows,</l>
+               <l>To think all men, like him, perſidious.</l>
+               <l>Palpable three days dark neſs next muſt tell <note place="margin">21.</note>
+               </l>
+               <l>Their final ruine, prodromous of Hell.</l>
+               <l>But <hi>Goſhen</hi> all this long and dreadful night, <note place="margin">23.</note>
+               </l>
+               <l>Had, as a pledg of <hi>Heavenly</hi> glories, light:</l>
+               <l>
+                  <hi>Pharo'h</hi> may now be hear<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> (though not be ſeen) <note place="margin">24.</note>
+               </l>
+               <l>Calling for <hi>Moſes,</hi> and as if't had been</l>
+               <l>A <hi>Credible</hi> he tells him, <hi>really</hi>
+               </l>
+               <l>He meant to let them go; (a <hi>real lie)</hi>
+               </l>
+               <l>Only your <hi>Cattel</hi> leave behind (ſays he)</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eave your <hi>Estates,</hi> your
+<hi>Perſons</hi> ſhall go free.</l>
+               <l>Let's hunt the <hi>Plot,</hi> was it his <hi>Avarice</hi>
+               </l>
+               <l>To ſell them their Religion at a price?</l>
+               <l>Or was't <hi>good Husbandry</hi> ſave what he could,</l>
+               <l>Seeing he could not have all that he would?</l>
+               <l>Or, was it <hi>Policy</hi> to draw them back,</l>
+               <l>When Wilderneſs makes them begin to lack?</l>
+               <l>For when this heat is o're (perhaps he thought)</l>
+               <l>They will <hi>repent</hi> what they've ſo dearly bought.</l>
+               <l>What e're it were; his <hi>Grant</hi> doth not ſuffice,</l>
+               <l>They muſt have where withal to ſacrifice. <note place="margin">25.</note>
+               </l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ivil</hi> as well as <hi>Sacred</hi> Liberty,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n all <hi>reſpects,</hi> their God will have them free.</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ea? ſay ye ſo? I thought (quoth
+<hi>Egypts</hi> King)</l>
+               <l>That <hi>Heaven-born</hi> ſouls minded no <hi>earthly</hi> things;</l>
+               <l>And that you did believe, <hi>God</hi> would ſupply</l>
+               <l>All things, both for your <hi>life</hi> and <hi>piety.</hi>
+               </l>
+               <l>But ſince you'l have it ſo; to let you ſee</l>
+               <l>
+                  <hi>My love,</hi> I'le not give leave, but baniſh ye:</l>
+               <l>
+                  <pb n="14" facs="tcp:106084:8"/> See, that you ſee my face no more, <hi>Petitions</hi> 
+                  <note place="margin">28.</note>
+               </l>
+               <l>I'le have no more, nor <hi>tedious</hi> repetitions</l>
+               <l>Of that ſame, <hi>Let my people go:</hi> be gone.</l>
+               <l>
+                  <hi>Moſes</hi> went out in <hi>Anger;</hi> which in one <note place="margin">
+                     <hi>Chap.</hi> 11.
+8.</note>
+               </l>
+               <l>So meek was much; but yet behind him leaves</l>
+               <l>A dreadful word; <hi>Pharoah,</hi> my God bereaves <note place="margin">5.</note>
+               </l>
+               <l>Thee of thy <hi>First-born;</hi> all thy Sons ſhall dye,</l>
+               <l>For <hi>my Sons</hi> ſake; and a ſad mid-night-cry <note place="margin">
+                     <hi>Ch.</hi> 4. 24. 6.
+8.</note>
+               </l>
+               <l>Shall fill the Land, and <hi>(stout</hi> as is thy <hi>heart)</hi>
+               </l>
+               <l>Thou and thine ſhall <hi>entreat</hi> us to depart.</l>
+               <l>
+                  <hi>Brave Souls</hi> make no <hi>unworthy compoſitions,</hi>
+               </l>
+               <l>Nor will admit of <hi>ſordid Propoſitions;</hi>
+               </l>
+               <l>
+                  <hi>Moſes</hi> hath <hi>conquer'd</hi> and muſt <hi>triumph</hi> now, <note place="margin">8.</note>
+               </l>
+               <l>And <hi>proud Egyptians</hi> muſt <hi>before him bow.</hi>
+               </l>
+               <l>
+                  <hi>He now is great</hi> whom <hi>lately</hi> they did <hi>ſlight,</hi> 
+                  <note place="margin">3.</note>
+               </l>
+               <l>Both in the <hi>Courtiers</hi> and the <hi>Country</hi>'s ſight.</l>
+               <l>Next he prepares his People to be gone,</l>
+               <l>Appoints the <hi>Door-mark,</hi> bids them every one <note place="margin">
+                     <hi>Ch.</hi> 12. 13.
+<hi>Ch.</hi> 11. 2.</note>
+               </l>
+               <l>Of the <hi>Egyptians</hi> Gold and Jewels <hi>horrow;</hi>
+               </l>
+               <l>Who lend with <hi>joy,</hi> what they muſt loſe with <hi>ſorrow.</hi>
+               </l>
+               <l>
+                  <hi>Justice</hi> gives them to <hi>Jacob</hi> for a ſpoil, <note place="margin">
+                     <hi>Ch.</hi> 12.
+36. <hi>Ezek.</hi> 39. 10.</note>
+               </l>
+               <l>Who had enrich'd themſelves by <hi>Jacob</hi>'s toil;</l>
+               <l>Who in their <hi>eyes</hi> at laſt does favour <hi>find,</hi>
+               </l>
+               <l>Who had ſo long to them been ſo <hi>unkind.</hi>
+               </l>
+               <l>The blow is given whether at <hi>heart</hi> or <hi>head,</hi> 
+                  <note place="margin">24.
+30.</note>
+               </l>
+               <l>But ſo it is in every houſe <hi>one dead.</hi>
+               </l>
+               <l>
+                  <hi>Pharoah</hi> awakes, aroſe, cryes out diſmaid,</l>
+               <l>Go Worſhip (not as I) but as ye ſaid. <note place="margin">31. 32.</note>
+               </l>
+               <l>Take all your flocks, do all your God requires;</l>
+               <l>And laſt of all their Bleſſing he deſires:</l>
+               <l>As <hi>Eſau</hi> did, <hi>Pharaoh</hi> doth, bleſſing crave,</l>
+               <l>Which neither he, nor he, deſerv'd to have:</l>
+               <l>Had he done like the <hi>Mede-Darius,</hi> true. <note place="margin">
+                     <hi>Ezr.</hi> 6.
+10.</note>
+               </l>
+               <l>He might have then expected it as due.</l>
+               <l>But this doth ſhew, that wicked men diſtreſt,</l>
+               <l>Do value by God's people to be bleſt.</l>
+               <l>
+                  <pb n="15" facs="tcp:106084:8"/> After <hi>ſeven</hi> precepts, <hi>let my people go,</hi>
+               </l>
+               <l>After <hi>three</hi> promiſes, <hi>it ſhall be ſo.</hi>
+               </l>
+               <l>Urg'd by the <hi>Egyptians, Iſrael</hi> haſts away; <note place="margin">33. 34.
+38.</note>
+               </l>
+               <l>Lap up their Dough unleav'ned as it lay.</l>
+               <l>A <hi>mixed multitude</hi> follow anon;</l>
+               <l>
+                  <hi>Proſperity</hi> will have its hangers on.</l>
+               <l>And now their Dough unleavned <hi>Iſrael bakes;</hi> 
+                  <note place="margin">39.</note>
+               </l>
+               <l>
+                  <hi>Liberty</hi> ſweetens mean unleav'ned Cakes.</l>
+               <l>And now they've time to count the time they ſpent <note place="margin">40.</note>
+               </l>
+               <l>In a ſtrange Land, and what they underwent.</l>
+               <l>Four hundred thirty years juſt was their ſtay,</l>
+               <l>God brought them out the ſelf ſame promis'd day. <note place="margin">41. 17.</note>
+               </l>
+               <l>He led them forth not by the neareſt cut,</l>
+               <l>Through the <hi>Philistins</hi> (great oppoſers) but</l>
+               <l>From <hi>Succoth</hi> march they on by God's direction, <note place="margin">
+                     <hi>Ch</hi> 14.
+2.</note>
+               </l>
+               <l>Camp by the Sea-ſide, under God's Protection;</l>
+               <l>Though <hi>Pharoah fancies</hi> them in great diſtreſs, <note place="margin">3.</note>
+               </l>
+               <l>ſhut up, entangled in the Wilderneſs;</l>
+               <l>And with ſix hundred Chariots doth purſue, <note place="margin">7. 9. 10. 11. 12.</note>
+               </l>
+               <l>And choſen Horſemen, quickly comes in view:</l>
+               <l>
+                  <hi>Iſrael</hi> fears, chides <hi>Moſes,</hi> wiſh for Graves</l>
+               <l>In <hi>Egypt,</hi> wiſh they'd liv'd and di'd there ſlaves.</l>
+               <l>The laſt four Lines two <hi>Wonders</hi> make appear;</l>
+               <l>That <hi>Pharoah</hi> ſhould have hope, and <hi>Iſrael</hi> fear;</l>
+               <l>Conſidering all the Wonders that had been;</l>
+               <l>What th'one had felt, and what th'other had ſeen,</l>
+               <l>Theſe Wonders are no Wonders (you will find)</l>
+               <l>Compar'd to Wonders, that are yet behind.</l>
+               <l>But <hi>Moſes</hi> bids them only ſtand, and ſee, <note place="margin">13.</note>
+               </l>
+               <l>What ſhould their ſafety, <hi>Egypts</hi> ruin be.</l>
+               <l>The Angel that before them did appear, <note place="margin">19.</note>
+               </l>
+               <l>Removes behind, the Pillar guards the rear:</l>
+               <l>On that ſide <hi>darkneſs,</hi> and on this ſide <hi>light,</hi> 
+                  <note place="margin">20.</note>
+               </l>
+               <l>To <hi>Iſrael</hi> day, to the <hi>Egyptians</hi> night.</l>
+               <l>The Sea divides on each hand; mounts on high, <note place="margin">21.</note>
+               </l>
+               <l>Like VVater-walls, the ſandy floor is dry: <note place="margin">22.</note>
+               </l>
+               <l>
+                  <pb n="16" facs="tcp:106084:9" rendition="simple:additions"/> There march the <hi>Iſraelites</hi> within the hollow,</l>
+               <l>And boldly do the proud <hi>Egyptians</hi> follow; <note place="margin">23.</note>
+               </l>
+               <l>On whom the Lord an angry look does caſt;</l>
+               <l>Troubles the Hoſt, and ſtayes their <hi>Overhast;</hi> 
+                  <note place="margin">25.</note>
+               </l>
+               <l>Till <hi>Iſrael</hi> is landed on the <hi>ſhore;</hi>
+               </l>
+               <l>The <hi>Sea</hi> returns, and <hi>Egypt</hi> is <hi>no more.</hi> 
+                  <note place="margin">30.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>I'ved done the ſtory; now ſit down and muſe,</l>
+               <l>I've ſet before you <hi>good</hi> and <hi>evil;</hi> chuſe.</l>
+               <l>Now let the <hi>Sinner</hi> (if he durſt) be bold,</l>
+               <l>And <hi>Obstinate,</hi> who hears this ſtory told,</l>
+               <l>Now let the feeble, fearful, trembling <hi>ſaint</hi>
+               </l>
+               <l>From this day forward <hi>never more</hi> be <hi>faint.</hi>
+               </l>
+               <l>May this a <hi>Warning</hi> and an <hi>Arming</hi> be</l>
+               <l>To Men <hi>Concern'd: O Lord I heg of thee,</hi>
+               </l>
+            </lg>
+            <closer>Cui Gloria in Excelſis &amp; hominibus Pax.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:106084:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
